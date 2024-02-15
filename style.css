@@ -54,12 +54,9 @@ body{
 }
 main{
     background-color: var(--bgr-clr1);
-    max-width: 500px;
-    min-height: 90vh;
     display: flex;
     flex-direction: column;
     padding: 1.5rem;
-    margin-inline: auto;
 }
 .first-div{
     display: flex;
@@ -196,4 +193,18 @@ main{
     background-color: var(--key-bgr-clr3);
     box-shadow: 0px 5px 0px 0px var(--key-shadow3);
     color: var(--txt-clr1);
+}
+
+/* media query */
+
+@media screen and (max-width:565px) {
+    main{
+       width: 90%;
+    }
+}
+
+@media screen and (min-width:566px) {
+    main{
+       width: 540px;
+    }
 }
