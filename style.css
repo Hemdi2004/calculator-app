@@ -47,6 +47,10 @@
 body{
     font-family: 'League Spartan', sans-serif;
     background-color:var(--bgr-clr1) ;
+   display:flex;
+   justify-content: center;
+   align-items:center;
+   min-height:100vh;
 }
 main{
     background-color: var(--bgr-clr1);
