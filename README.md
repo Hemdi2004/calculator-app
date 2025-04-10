@@ -15,7 +15,7 @@ It features **three unique themes** you can switch between for a personalized ex
 
 ## 🚀 Live Demo
 
-👉 [Try it here] hemdi2004.github.io/calculator-app/
+👉 [Try it here] (hemdi2004.github.io/calculator-app/)
 
 ---
 
